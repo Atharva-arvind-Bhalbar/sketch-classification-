@@ -1,0 +1,45 @@
+body
+{
+    background-color: yellow;
+}
+
+#score 
+{
+    font-size:35px;
+    margin-left: 20px;
+    color: black;
+}
+
+#timer
+{
+    font-size:35px;
+    float:right;
+    margin-right: 20px;
+    color: black;   
+}
+
+#show_sketch
+{
+  float: right;
+  color: black;
+}
+
+h1
+{
+    background-color: blue;
+    color: yellow;
+}
+
+p
+{
+    width: fit-content;
+    font-size: medium;
+    color: yellow;
+    background-color: black;
+    border-radius: 10px;
+}
+
+canvas
+{
+    border-radius: 20px;
+}
